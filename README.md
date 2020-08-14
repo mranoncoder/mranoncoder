@@ -39,7 +39,11 @@ programming-languages = [
 
 
 ```
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mranoncoder&show_icons=true" alt="mranoncoder" /> 
 
+</p>
+<p align="left"> </p>
 ### Other Accounts 📫
 
 You can find and get touch with me on these accounts!
