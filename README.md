@@ -44,7 +44,7 @@ programming-languages = [
 
 You can find and get touch with me on these accounts!
 
-| [<img src="https://raw.githubusercontent.com/mranoncoder/mranoncoder/master/assests/github.png" alt="github logo" width="34">](https://github.com/mranoncoder) | [<img src="https://raw.githubusercontent.com/mranoncoder/mranoncoder/master/assests/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/abol._.l/) | [<img src="https://raw.githubusercontent.com/mranoncoder/mranoncoder/master/assests/telegram.png" alt="telegram logo" width="24">](https://telegram.me/mranoncoder)
+ [<img src="https://raw.githubusercontent.com/mranoncoder/mranoncoder/master/assests/github.png" alt="github logo" width="34">](https://github.com/mranoncoder)  [<img src="https://raw.githubusercontent.com/mranoncoder/mranoncoder/master/assests/instagram.jpg" alt="instagram logo" width="34">](https://www.instagram.com/abol._.l/)  [<img src="https://raw.githubusercontent.com/mranoncoder/mranoncoder/master/assests/telegram.png" alt="telegram logo" width="34">](https://telegram.me/mranoncoder)
 
 ---
 
