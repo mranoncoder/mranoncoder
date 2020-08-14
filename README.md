@@ -13,7 +13,7 @@ bePatient();
 }
 ```
 
-<h3>Hey, there!</h3>
+<h3>Hey, there! 😎💻</h3>
 
 Here's my `Manifest.toml`:
 
