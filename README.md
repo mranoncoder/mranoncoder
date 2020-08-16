@@ -27,7 +27,7 @@ email = 'inbox "at" abolfazl.dev'
 [professional]
 currently-CEO = true
 title = 'Android & iOS App Developer'
-CEO = 'BotStation'
+CEO_OF = 'BotStation'
 
 [bio]
 categories = [
