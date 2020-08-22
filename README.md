@@ -1,7 +1,4 @@
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mranoncoder" alt="mranoncoder" />
-</p>
 ``` php
 while(!successfull){
 // everybody has
