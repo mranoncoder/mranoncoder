@@ -27,9 +27,6 @@ showMoreTalent();
 bePatient();
 }
 ```
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mranoncoder&count_private=true&layout=compact&theme=vision-friendly-dark" alt="Jon Schlinkert's github stats">
-</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mranoncoder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
