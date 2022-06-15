@@ -1,6 +1,6 @@
 
 # Hey i am Abol! 👋
-## I full-time developer :)
+## I am a full-time developer :)
 
 ### Let me tell you more about my self:  
 I'm a very creative person, and start with very young age, to build my own businesses to find new ways to make people's lives easier.
@@ -28,10 +28,10 @@ bePatient();
 }
 ```
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonschlinkert&count_private=true" alt="Jon Schlinkert's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mranoncoder&count_private=true" alt="Jon Schlinkert's github stats">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mranoncoder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 You can find me here:
 
