@@ -1,21 +1,18 @@
 
-# Hey i am Abol! 👋
-## I am a full-time developer :)
+#Hi there!
 
-### Let me tell you more about my self:  
-I'm a very creative person, and start with very young age, to build my own businesses to find new ways to make people's lives easier.
+I'm Abolfazl, and I'm a very creative person. I started building my own businesses when I was very young, and I've always been interested in finding new ways to make people's lives easier.
 
-I have started with programming in 2015, already with very young age, I started to sell Telegram bots and small websites.
+I've been programming since 2015, and since then, I've been selling Telegram bots and small websites.
 
-In 2019, I started as an Android and IOS developer in the company René Knipshild, in addition I programmed small apps privately as a hobby and published them in Google Play, in a very short time I could get more than 100k installations for my apps.
+In 2019, I started as an Android and iOS developer at René Knipshild. In addition to this work, I programmed small apps privately as a hobby and published them in Google Play. In a short time, I could get more than 100k installations for my apps! That's when I decided to develop games.
 
-In 2020, I decided to develop games and that's how I got the idea of BotStation to set up a game development company.
+That's how the idea for BotStation came up—to set up a game development company where we can build on our experience as app developers by creating both games and blockchain apps that people love using!
 
-In 2021, I was interested in blockchain already from very young ages, with the trend of NFTs in 2021 become the interest much stronger, so I started to deal with it more. I could be involved in several projects as a blockchain app developer in a very short time, since I could gather a lot of knowledge in the field of NFTs and blockchain, I also gave NFT advice to projects.
+In 2021, blockchain became much more interesting for me since it has become the trend of NFTs—and that's where my interest really picked up again. Since then, I've worked on several projects as a blockchain app developer; most recently with [company name].
 
-All these achievements led me to found one of the first Web3 companies in Germany and help companies to grow in the web3 industry to make their businesses grow economically.
+All these achievements led me to found one of the first Web3 companies in Germany; now we're helping other companies grow
 
-I also really enjoy helping people to learn new things, so I started to give Solidity courses and many other useful videos on social media which helps companies and young people to grow their careers
 
 ``` php
 while(!successfull){
