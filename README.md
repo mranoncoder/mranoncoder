@@ -9,7 +9,7 @@ In 2019, I started as an Android and iOS developer at René Knipshild. In additi
 
 That's how the idea for BotStation came up—to set up a game development company where we can build on our experience as app developers by creating both games and blockchain apps that people love using!
 
-In 2021, blockchain became much more interesting for me since it has become the trend of NFTs—and that's where my interest really picked up again. Since then, I've worked on several projects as a blockchain app developer; most recently with [company name].
+In 2021, blockchain became much more interesting for me since it has become the trend of NFTs—and that's where my interest really picked up again. Since then, I've worked on several projects as a blockchain app developer.
 
 All these achievements led me to found one of the first Web3 companies in Germany; now we're helping other companies grow
 
