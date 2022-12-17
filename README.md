@@ -12,9 +12,6 @@ I'm Abolfazl, and I'm a very creative person. I started building my own business
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mranoncoder&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mranoncoder&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mranoncoder&icon=0&color=3)](https://visitcount.itsvg.in)
 
